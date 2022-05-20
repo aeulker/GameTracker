@@ -53,7 +53,6 @@
     <Compile Include="frmGameTracker.Designer.cs">
       <DependentUpon>frmGameTracker.cs</DependentUpon>
     </Compile>
-    <Compile Include="ListItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmGameTracker.resx">
